@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Lists</string>
+    <string name="AvailableInPdf">Available in Pdf</string>
+    <string name="NotAvailableInPdf">Not Available in Pdf</string>
+    <string name="NoDataAvailable">No Data Available</string>
+    <string name="NoInternetConnection">No Internet Connection</string>
+    <string name="search_bar">search_bar</string>
+    <string name="hint">"Search Books"</string>
+</resources>
